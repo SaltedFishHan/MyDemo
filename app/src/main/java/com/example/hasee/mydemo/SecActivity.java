@@ -15,5 +15,6 @@ public class SecActivity extends AppCompatActivity {
 
         TextView textview = (TextView) findViewById(R.id.textView2);
         textview.setText("第二个页面");
+        //哈哈哈哈哈哈哈
     }
 }

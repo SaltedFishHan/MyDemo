@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         findViewById(R.id.text);
-//        哈哈哈哈
+//        呵呵呵
         ///第一次更改
         Log.e("haha","hah");
     }
