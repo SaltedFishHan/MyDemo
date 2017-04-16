@@ -2,6 +2,7 @@ package com.example.hasee.mydemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.text);
 //        哈哈哈哈
         ///第一次更改
+        Log.e("haha","hah");
     }
 }
